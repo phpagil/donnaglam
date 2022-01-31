@@ -1,0 +1,85 @@
+               DONNA GLAM
+       DATA: 04/06/2021 11:44:24
+                    
+      DOCUMENTO AUXILIAR DE VENDA
+                    
+           NR. PEDIDO: 43322
+             USUARIO: CAIXA
+                    
+Produto                                 
+Cod.    Und.     Qtd   V.Unit.     Total
+----------------------------------------
+HIDRATANTE ANTICRAQUELAMENTO MAKE UP    
+9378    UN      1,00     23,99     23,99
+----------------------------------------
+CANETA DELINEADORA MAHAV                
+8618    UN      1,00     19,99     19,99
+----------------------------------------
+TONICO FACIAL DALLA                     
+9930    UN      1,00     19,99     19,99
+----------------------------------------
+PINCEL DUPLO                            
+6348    UN      1,00     12,90     12,90
+----------------------------------------
+BRUMA MAHAV                             
+8894    UN      1,00     19,90     19,90
+----------------------------------------
+CAIXA DE CILIOS K39                     
+6481    UN      1,00     19,90     19,90
+----------------------------------------
+ALGODAO EM DISCOS TOPZ                  
+11189   UN      1,00      8,90      8,90
+----------------------------------------
+PALETA 39 CORES MYLIFE                  
+10162   UN      1,00     49,90     49,90
+----------------------------------------
+PRIME PRE MAKE CONTROLE DE BRILHO       
+10652   UN      1,00      7,90      7,90
+----------------------------------------
+ESPONJA 2 TEXTURAS DONNA GLAM           
+11378   UN      1,00     17,90     17,90
+----------------------------------------
+PINCEL 05 DONNA GLAM                    
+11367   UN      1,00     39,90     39,90
+----------------------------------------
+SOMBRA LIQ. DONNA GLAM BRANCA           
+8688    UN      1,00     19,99     19,99
+----------------------------------------
+PINCEL 02 DONNA GLAM                    
+11364   UN      1,00     17,90     17,90
+----------------------------------------
+PINCEL 03 DONNA GLAM                    
+11365   UN      1,00     17,90     17,90
+----------------------------------------
+BLUSH DUO 01 DONNA GLAM                 
+10377   UN      1,00     19,99     19,99
+----------------------------------------
+BATOM DONNA DE SI DONNA GLAM            
+10218   UN      1,00     15,99     15,99
+----------------------------------------
+TAXA DE ENTREGA                         
+11296   UN      1,00     18,00     18,00
+----------------------------------------
+                     
+Sub-total: 350,94
+
+ 
+ 
+ 
+Forma Pag: CARTAO DE CREDITO
+ 
+ 
+OBRIGADA POR ESCOLHER A DONNA GLAM... VOLTE SEMPRE PARA FAZER SEU RANCHO! TITIA AGRADECE @_DONNAGLAM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v2
+
+vå
+
+m
